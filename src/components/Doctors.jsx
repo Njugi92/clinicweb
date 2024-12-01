@@ -7,42 +7,42 @@ import { FaArrowLeft, FaArrowRight } from "react-icons/fa";
 const Doctors = () => {
   const data = [
     {
-      img: "src/assets/img/docpatient.jpg",
+      img: "./docpatient.jpg",
       name: "Dr. Ann  John",
       specialization: "Orthopedic Surgeon",
     },
     {
-      img: "src/assets/img/docpat.jpg",
+      img: "./docpat.jpg",
       name: "Dr. Susan Grace",
       specialization: "Cardiologist",
     },
     {
-      img: "src/assets/img/pregultrasound.jpg",
+      img: "./pregultrasound.jpg",
       name: "Dr. Hassan Ahmed",
       specialization: "Pedriatrician",
     },
     {
-      img: "src/assets/img/docmachine.jpg",
+      img: "./docmachine.jpg",
       name: "Dr. Jaffet Omollo",
       specialization: "Neurologist",
     },
     {
-      img: "src/assets/img/docspecialcare.jpg",
+      img: "./docspecialcare.jpg",
       name: "Dr. Ethan Carter",
       specialization: "Dermatologist",
     },
     {
-      img: "src/assets/img/doc1.jpg",
+      img: "./doc1.jpg",
       name: "Dr. Olivia Martinez",
       specialization: "Ophthalmologist",
     },
     {
-      img: "src/assets/img/home3.jpg",
+      img: "./home3.jpg",
       name: "Dr. Raphael Maingi",
       specialization: "Dentist",
     },
     {
-      img: "src/assets/img/wellness-img.jpg",
+      img: "./wellness-img.jpg",
       name: "Dr. Joyce Muthoni",
       specialization: "Entermologist",
     },
